@@ -1,4 +1,4 @@
-# Landing Page Project #1
+# Landing Page Project #2
 
 ## Highlights
 - By Subham Sahu
