@@ -60,6 +60,11 @@
     margin:0px 20px;
 }
 
+.nav-link{
+    text-decoration: none;
+    color:#FFC233
+}
+
 .order{
     position: absolute;
     top: 0px;
