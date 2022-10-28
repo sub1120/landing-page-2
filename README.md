@@ -1,4 +1,6 @@
-# Landing Page Project #2
+# FSJS Course | HTML & CSS Project
+
+##  Project #2 Food Restaurant Home Page : [Deployed Link](https://sprightly-paletas-044568.netlify.app/)
 ![Screenshot 2022-08-19 at 07-42-34 Food Restaurant Home Page](https://user-images.githubusercontent.com/43786036/185527630-54758b78-968a-462b-b45a-7f0337fb821e.png)
 
 ## Highlights
